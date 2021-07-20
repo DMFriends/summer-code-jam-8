@@ -4,7 +4,7 @@
 * Games:
     * Pong
     * Snake
-    * MineSweeper
+    * Minesweeper
 
 ## Frameworks
 - [Curses](https://pypi.org/project/windows-curses/)
@@ -21,10 +21,11 @@
     * Open Games
         * 1 -> Snake
         * 2 -> Pong
-        * 3-> MineSweeper
+        * 3-> Minesweeper
     * Escape -> Exit
+
 ### N.-B.
-MineSweeper requires the [nurses](https://github.com/salt-die/nurses) library, and is developed and tested with the `nurses` code from this [commit](https://github.com/salt-die/nurses/commit/7090280fd48e3b9503f96b3b30b45d12fc6f4033).
+Minesweeper requires the [nurses](https://github.com/salt-die/nurses) library, and is developed and tested with the `nurses` code from this [commit](https://github.com/salt-die/nurses/commit/7090280fd48e3b9503f96b3b30b45d12fc6f4033).
 
 ## Troubleshoot:
 ### `gameboy.py` failed to start:
